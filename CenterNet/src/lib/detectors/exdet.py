@@ -4,10 +4,6 @@ from __future__ import print_function
 
 #import _init_paths
 
-import sys
-import os
-print(os.sys)
-
 import os
 
 import cv2
